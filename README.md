@@ -1,6 +1,8 @@
 # CCSDS Space Packet Protocol
 
-A Go library providing an implementation of the Space Packet Protocol (SPP) according to the Consultative Committee for Space Data Systems (CCSDS) standard. This library allows you to easily encode and decode space telemetry and telecommand packets.
+![Space Packet Header Layout](docs/header-layout.png)
+
+A Go library providing an implementation of the Space Packet Protocol (SPP) according to the Consultative Committee for Space Data Systems (CCSDS) standard ([CCSDS 133.0-B-2](https://ccsds.org/Pubs/133x0b2e2.pdf)). This library allows you to easily encode and decode space telemetry and telecommand packets.
 
 ## Installation
 
